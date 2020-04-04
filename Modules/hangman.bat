@@ -2,10 +2,6 @@
 color 04
 mode 25,15
 cd Addons
-::
-:: Hangman Game
-:: (c) Batchography book - by Elias Bachaalany
-::
 cls
 setlocal enabledelayedexpansion
 title Hangman game 
