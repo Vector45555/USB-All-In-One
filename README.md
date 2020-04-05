@@ -10,7 +10,7 @@ Added registry edit module
 ## Use/Setup
 This code was designed to be used on a flash drive named "Tool", as such its code allows it to have any drive letter and still work so you can practially use this in any scenrio. Most of the tools do not give any output besides in command line, but tools like the system info grabber, and backup tool do. These make a folder in the root directory of the flashdrive called UserInfo, then make their own folder for their respected output.
 
-My setup for this is making a folder called setup, setting it to a hidden folder, putting everything in there, and make a shortcut to the main menu (this also lets you add a icon)
+My setup for this is making a folder called source, setting it to a hidden folder, putting everything in there, and make a shortcut to the main menu (this also lets you add a icon)
 
 ### Needed tools
 All you need is any flashdrive-8gb should be good, but if you plan on using the backup tool often, you may need to give it 16gb+
