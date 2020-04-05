@@ -5,9 +5,7 @@ A all in one command-line based (batch) tool to be used by anyone from penetrati
 I am not new to batch scripting, but I still have plenty to learn. if you see any errors e-mail me @ ilovehax011@gmail.com -- Thats my coding email, not my personal, so I won't respond immediately but I will fix it as soon as possible
 
 # Update 
-I have found a repo that edits certain registery keys and lets you disable certain apps like Messaging, Contacts, Windows Defender, ect.
-I will add it to the project, should I publish it with the new modules? Here is the repo
-https://github.com/Espionage724/Windows
+Added registry edit module
 
 ## Use/Setup
 This code was designed to be used on a flash drive named "Tool", as such its code allows it to have any drive letter and still work so you can practially use this in any scenrio. Most of the tools do not give any output besides in command line, but tools like the system info grabber, and backup tool do. These make a folder in the root directory of the flashdrive called UserInfo, then make their own folder for their respected output.
@@ -54,6 +52,11 @@ This script starts by asking how mant characters for the password, then generate
 
 ### recycle_bin_cleaner.bat
 Cd's into addons and opens recycle.exe, this will clear all files in the recycle bin. NOTE This will not prompt the user about any files, so if you open this, any file will be deleted
+
+### regedit.bat
+A easy to use menu for editing the regestry. Any changes made using this cannot be undone in the app.
+This was not original code, I found it in this repository
+https://github.com/Espionage724/Windows
 
 ### resTest.bat 
 It just checks the resolution, nothing else. Kinda usless...
