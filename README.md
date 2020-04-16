@@ -12,6 +12,8 @@ This code was designed to be used on a flash drive named "Tool", as such its cod
 
 My setup for this is making a folder called source, setting it to a hidden folder, putting everything in there, and make a shortcut to the main menu (this also lets you add a icon)
 
+Feel free to add your own modules, there are many that I havn't uploaded, becuase they wouldn't work on other setups. 
+
 ### Needed tools
 All you need is any flashdrive-8gb should be good, but if you plan on using the backup tool often, you may need to give it 16gb+
 
