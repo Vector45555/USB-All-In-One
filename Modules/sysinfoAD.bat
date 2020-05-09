@@ -11,8 +11,6 @@ cd /
 cd UserInfo
 md System_Info
 cd System_Info
-:: NOTE TO SELF, you MUST make the folder in the C: directory, then copy it to drive, THEN delete the folder in C:
-:: taskkill /fi "Kill Me" ????
 SET timestamp=[%date%, %time%]
 md %USERNAME%
 cd %USERNAME%
